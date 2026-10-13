@@ -1,3 +1,5 @@
+![Tishev · Detection Engineering](https://raw.githubusercontent.com/tishev-sec/detections/main/assets/brand/linkedin-banner.png)
+
 # Tishev
 
 **Senior Detection Engineer** · Azure cloud security · Microsoft Sentinel & Defender XDR
