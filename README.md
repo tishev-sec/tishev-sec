@@ -5,6 +5,8 @@
 I build detections for cloud and identity attacks, mostly in Azure and Microsoft 365, and write
 up the reasoning behind them so other defenders can reuse and improve them.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tishev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandar-t-86691174/) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Tishev-C11111?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Tishev)
+
 ## Detections
 
 **[tishev-sec/detections](https://github.com/tishev-sec/detections)** · browse at **[tishev-sec.github.io/detections](https://tishev-sec.github.io/detections/)**
